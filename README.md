@@ -10,3 +10,7 @@ DB_USER = 'user_mysl'
 DB_PASSWORD = 'password_mysql'
 DB_NAME = 'database'
 DB_PORT = 3306
+
+## Execution 
+source .venv/bin/activate
+source .venv/bin/activate
